@@ -12,5 +12,6 @@ Este repositorio contiene todos los links compartidos en los diferentes episodio
 ## Episodios
 
 1. [2016-08-15](./2016-08-15.md)
-
-1. [2016-08-25](./2016-08-25.md)
+2. [2016-08-25](./2016-08-25.md)
+2. [2016-09-08](./2016-09-08.md)
+3. [2016-09-23](./2016-09-23.md)
