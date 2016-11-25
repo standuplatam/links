@@ -16,3 +16,5 @@ Este repositorio contiene todos los links compartidos en los diferentes episodio
 3. [2016-09-08](./2016-09-08.md)
 4. [2016-09-23](./2016-09-23.md)
 5. [2016-10-06](./2016-10-06.md)
+6. [2016-10-21](./2016-10-21.md)
+7. [2016-11-25](./2016-11-25.md)
